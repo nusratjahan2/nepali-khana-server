@@ -1,0 +1,38 @@
+[
+    {
+      "picture": "chef1.jpg",
+      "name": "Gordon Ramsay",
+      "yearsOfExperience": 30,
+      "numberOfRecipes": 200,
+      "likes": 15000
+    },
+    {
+      "picture": "chef2.jpg",
+      "name": "Jamie Oliver",
+      "yearsOfExperience": 25,
+      "numberOfRecipes": 180,
+      "likes": 12000
+    },
+    {
+      "picture": "chef3.jpg",
+      "name": "Ina Garten",
+      "yearsOfExperience": 35,
+      "numberOfRecipes": 250,
+      "likes": 9000
+    },
+    {
+      "picture": "chef4.jpg",
+      "name": "Thomas Keller",
+      "yearsOfExperience": 40,
+      "numberOfRecipes": 300,
+      "likes": 10000
+    },
+    {
+      "picture": "chef5.jpg",
+      "name": "Massimo Bottura",
+      "yearsOfExperience": 35,
+      "numberOfRecipes": 220,
+      "likes": 11000
+    }
+  ]
+  
