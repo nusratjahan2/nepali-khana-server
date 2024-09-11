@@ -1,0 +1,20 @@
+[
+    {
+        "recipeName": "Aloo Tama",
+        "ingredients": ["Bamboo Shoots", "Potatoes", "Black-eyed Beans", "Onion", "Garlic", "Turmeric", "Mustard Oil"],
+        "methodOfCooking": "Fry onions, garlic, and turmeric in mustard oil. Add potatoes and cook until tender. Add bamboo shoots and beans, simmer until flavors meld together.",
+        "rating": 4.6
+      },
+      {
+        "recipeName": "Sel Roti",
+        "ingredients": ["Rice Flour", "Water", "Sugar", "Cardamom", "Ghee", "Milk"],
+        "methodOfCooking": "Mix rice flour, sugar, and cardamom with water and milk. Heat ghee in a pan and deep fry the dough in circular shapes until golden brown.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Chatamari",
+        "ingredients": ["Rice Flour", "Water", "Egg", "Ground Meat", "Onion", "Tomato", "Cilantro", "Spices"],
+        "methodOfCooking": "Make a batter from rice flour and water. Pour it onto a hot pan to make a thin base. Add toppings like meat, egg, and vegetables, and cook until crispy.",
+        "rating": 4.8
+      }
+]

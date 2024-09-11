@@ -1,0 +1,20 @@
+[
+    {
+        "recipeName": "Momo",
+        "ingredients": ["Flour", "Ground Meat (Chicken/Beef/Pork)", "Onion", "Garlic", "Ginger", "Cabbage", "Soy Sauce", "Cilantro"],
+        "methodOfCooking": "Prepare dough from flour and water. Mix minced meat with vegetables and spices. Stuff the dough with filling, fold into dumplings, and steam for 10-15 minutes.",
+        "rating": 4.8
+      },
+      {
+        "recipeName": "Dal Bhat",
+        "ingredients": ["Lentils", "Rice", "Garlic", "Onion", "Turmeric", "Cumin", "Ghee", "Salt"],
+        "methodOfCooking": "Cook lentils with spices and simmer until soft. Cook rice separately. Serve the lentils over rice, accompanied by pickles and vegetables.",
+        "rating": 4.9
+      },
+      {
+        "recipeName": "Gundruk",
+        "ingredients": ["Fermented Leafy Greens", "Onion", "Tomato", "Green Chili", "Garlic", "Turmeric"],
+        "methodOfCooking": "Fry onion, garlic, and green chili in oil. Add tomatoes and cook until soft. Mix in the fermented greens and stir for a few minutes. Serve with rice.",
+        "rating": 4.5
+      }
+]

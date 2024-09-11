@@ -1,0 +1,20 @@
+[
+    {
+        "recipeName": "Thukpa",
+        "ingredients": ["Noodles", "Chicken or Veggies", "Garlic", "Ginger", "Tomato", "Onion", "Cumin", "Green Chili"],
+        "methodOfCooking": "Boil noodles separately. Cook vegetables and meat with spices, garlic, and ginger. Add broth, and then the noodles. Let it simmer before serving.",
+        "rating": 4.7
+      },
+      {
+        "recipeName": "Yomari",
+        "ingredients": ["Rice Flour", "Chaku (molasses)", "Sesame Seeds", "Coconut"],
+        "methodOfCooking": "Make dough from rice flour and water. Shape it into cones and fill with a mixture of chaku, sesame seeds, and coconut. Steam for about 10 minutes.",
+        "rating": 4.6
+      },
+      {
+        "recipeName": "Sukuti",
+        "ingredients": ["Dried Meat", "Garlic", "Ginger", "Onion", "Tomato", "Chili", "Mustard Oil"],
+        "methodOfCooking": "Fry garlic, ginger, and onion in mustard oil. Add dried meat and cook until tender. Add tomatoes and chili, simmer for a few minutes, and serve hot.",
+        "rating": 4.4
+      }
+]
